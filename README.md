@@ -6,8 +6,8 @@
 #### Домашние задания
 №|Описание|Ссылка на работу
 ---|:---:|:---:
-|**1**|Пингвинчики|[*5 задач*](https://github.com/vlad465230/python-dh-hw/blob/master/HW1.ipynb)|
-|**2**||
+|**1**|HW1|[*5 задач*](https://github.com/vlad465230/python-dh-hw/blob/master/HW1.ipynb)|
+|**2**|HW2|[*3 задачи*](https://github.com/vlad465230/python-dh-hw/blob/master/HW2.ipynb)|
 |**3**||
 |**4**||
 |**5**||
