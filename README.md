@@ -8,7 +8,6 @@
 ---|:---:|:---:
 |**1**|HW1|[*5 задач*](https://github.com/vlad465230/python-dh-hw/blob/master/HW1.ipynb)|
 |**2**|HW2|[*3 задачи*](https://github.com/vlad465230/python-dh-hw/blob/master/HW2.ipynb)|
-|**3**||
+|**3**|HW3|[*NLP*](https://github.com/vlad465230/python-dh-hw/blob/master/HW3.ipynb)|
 |**4**||
-|**5**||
-|**6**||
+
